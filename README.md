@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/75476607/120882203-c6950a80-c5de-11eb-8cba-a0fe21115c2e.gif" height="30px"/>, I'm Rzayev Taleh</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RzayevTaleh01&label=Views&color=blue&style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/followers/RzayevTaleh01?style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/stars/RzayevTaleh01?style=plastic" alt="iampawan" /> 
+<h1>Hi <img src="https://user-images.githubusercontent.com/75476607/120882203-c6950a80-c5de-11eb-8cba-a0fe21115c2e.gif" height="30px"/>, I'm Rzayev Taleh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RzayevTaleh01&label=Views&color=blue&style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/followers/RzayevTaleh01?style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/stars/RzayevTaleh01?style=plastic" alt="iampawan" /> 
 </p>
+
+## Connect with me:
 
 
 <a href="https://twitter.com/taleh6159">
@@ -27,6 +29,8 @@
 
 <br/>
 <br/>
+ 
+## Github Stats
  
 <a href="https://github.com/RzayevTaleh01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzayevTaleh01&theme=light&hide_langs_below=1" />
