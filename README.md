@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RzayevTaleh01&label=Views&color=blue&style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/followers/RzayevTaleh01?style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/stars/RzayevTaleh01?style=plastic" alt="iampawan" /> 
 </p>
 
-## Connect with me:
+## 🔗 Connect with me:
 
 
 <a href="https://twitter.com/taleh6159">
