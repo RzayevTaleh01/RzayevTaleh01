@@ -42,7 +42,7 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" ></img> <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MySQL-064F8C?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white"></img>
 
 
 <br/>
