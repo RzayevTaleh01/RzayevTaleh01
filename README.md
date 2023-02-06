@@ -8,9 +8,6 @@
 ## 🔗 Connect with me:
 
 
-<a href="https://twitter.com/taleh6159">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/RzayevTaleh01">
   <img align="left" alt="Taleh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -38,24 +35,39 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></img>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></img>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></img>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></img>
 <img src="https://img.shields.io/badge/React-00979D?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"></img>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></img>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></img>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" ></img> <br/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+
 
 
 <br/>
 <br/>
  
 ## Github Stats
+
+
  
 <a href="https://github.com/RzayevTaleh01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzayevTaleh01&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/RzayevTaleh01">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RzayevTaleh01&show_icons=true&theme=light&line_height=27" alt="Taleh's github stats"/>
+</a>
+<br/>
+<br/>
+
+<a href="https://github.com/RzayevTaleh01">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RzayevTaleh01&theme=vue" />
 </a>
