@@ -14,10 +14,7 @@
 <a href="https://github.com/RzayevTaleh01">
   <img align="left" alt="Taleh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/coderarxivdev">
-  <img align="left" alt="Taleh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/taleh_61_59/">
+<a href="https://instagram.com/taleh.rzayevv/">
   <img align="left" alt="Taleh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/people/Taleh-Rzayev/100004215468747/">
@@ -56,11 +53,6 @@
 <br/>
  
 ## Github Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RzayevTaleh01&theme=holi)
-<br/>
-<br/>
-
-<a href="https://github.com/RzayevTaleh01">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RzayevTaleh01&theme=vue" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RzayevTaleh01)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RzayevTaleh01&theme=github&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github&animation=draw&name=Taleh+Rzayev)
