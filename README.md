@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=false&vCenter=true&width=900&height=110&lines=Software+Engineer;Frontend+Developer;AI+Researcher;)](https://git.io/typing-svg)
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RzayevTaleh01&label=Views&color=blue&style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/followers/RzayevTaleh01?style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/stars/RzayevTaleh01?style=plastic" alt="iampawan" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RzayevTaleh01&label=Views&color=blue&style=plastic" alt="Taleh Rzayev" /> <img src="https://img.shields.io/github/followers/RzayevTaleh01?style=plastic" alt="iampawan" /> <img src="https://img.shields.io/github/stars/RzayevTaleh01?style=plastic" alt="iampawan" /> 
 </p>
 
 ## 🔗 Connect with me:
